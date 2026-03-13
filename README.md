@@ -1,5 +1,9 @@
-# albertomortani
+<h1 align="center">Ciao! Sono Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
+<p align="center">
+  <a href="https://github.com/albertomortani"><img src="https://img.shields.io/github/followers/albertomortani?label=Follow&style=social" alt="GitHub Follow"></a>
+  <a href="mailto:albertomortani@gmail.com"><img src="https://img.shields.io/badge/-albertomortani@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertomortani@gmail.com"></a>
+</p>
 
 ### 🛠 Tecnologie e Linguaggi
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
