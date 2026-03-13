@@ -10,3 +10,6 @@
 
 ### 📊 Le mie statistiche GitHub
 ![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=albertomortani&show_icons=true&theme=dracula)
+
+### 📫 Contatti
+- 📧 Email: albertomortani@gmail.com
