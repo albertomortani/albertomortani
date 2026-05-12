@@ -1,19 +1,41 @@
-<h1 align="center">Ciao! Sono Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi 👋, I'm Alberto</h1>
+<h3 align="center">High School Student</h3>
 
-<p align="center">
-  <a href="https://github.com/albertomortani"><img src="https://img.shields.io/github/followers/albertomortani?label=Follow&style=social" alt="GitHub Follow"></a>
-  <a href="mailto:albertomortani@gmail.com"><img src="https://img.shields.io/badge/-albertomortani@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertomortani@gmail.com"></a>
+<a href="https://github.com/albertomortani"><img src="https://img.shields.io/github/followers/albertomortani?label=Follow&style=social" alt="GitHub Follow"></a>
+
+## 🎨 About Me
+
+- 🌱 I am currently studying at ITT Blaise Pascal
+- 🎯 I am working on a Flutter app featuring real-time geolocation, interactive maps, and a guided tour system
+
+## 🎓 Studies
+ 
+- High School, Computer Science and Information Technology, **ITT Blaise Pascal, Cesena** (2023 - present)
+
+## 🏆 Achievements
+
+- Winner of the **"IERI È OGGI È DOMANI"** national school project competition promoted by the German Embassy in Italy — 2025  
+  Developed the app **"Cesena Remembers"** with my class. The project received a **€1,500 grant** for implementation.
+
+### 🖥️ Programming Languages:
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
 </p>
 
-### 🛠 Tecnologie e Linguaggi
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ Tools and other:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="32"/>
+  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" title="GIMP" width="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="32"/>
+</p>
 
-### 📊 Le mie statistiche GitHub
-![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=albertomortani&show_icons=true&theme=dracula)
-
-### 📫 Contatti
-- 📧 Email: albertomortani@gmail.com
+## 🔗 Connect with Me
+<p align="left">
+  <a href="mailto:albertomortani@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32"/></a>
+  <a href="https://instagram.com/alberto.mortani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="32"/></a>
+</p>
