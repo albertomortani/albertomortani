@@ -41,4 +41,4 @@
 </p>
 
 ## 🐍 My Contributions Snake
-![Snake animation](https://raw.githubusercontent.com/TUO_UTENTE/TUO_UTENTE/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/albertomortani/albertomortani/output/github-snake.svg)
