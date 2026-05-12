@@ -39,3 +39,6 @@
   <a href="mailto:albertomortani@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32"/></a>
   <a href="https://instagram.com/alberto.mortani"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="32"/></a>
 </p>
+
+## 🐍 My Contributions Snake
+![Snake animation](https://raw.githubusercontent.com/TUO_UTENTE/TUO_UTENTE/output/github-snake.svg)
