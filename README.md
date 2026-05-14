@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="32"/>
   <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" title="GIMP" width="32"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="32"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg"/>
 </p>
 
 ## 🔗 Connect with Me
