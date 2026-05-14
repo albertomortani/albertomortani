@@ -14,7 +14,7 @@
 ## 🏆 Achievements
 
 - "IERI È OGGI È DOMANI" National Competition (2025)
-My class was awarded by the German Embassy in Italy for the development of the "Cesena Remembers" app. Secured a €1,500 implementation grant to bring the project to fruition.
+  My class was awarded by the German Embassy in Italy for the development of the "Cesena Remembers" app. Secured a €1,500 implementation grant to bring the project to fruition.
 
 ### 🖥️ Programming Languages:
 <p>
