@@ -6,6 +6,7 @@
 ## 🎨 About Me
 
 - 🌱 I am currently studying at ITT Blaise Pascal
+- 🎯 I am working on a Flutter app featuring real-time geolocation, interactive maps, and a guided tour system
 
 ## 🎓 Studies
  
@@ -13,8 +14,8 @@
 
 ## 🏆 Achievements
 
-- "IERI È OGGI È DOMANI" National Competition (2025)
-  My class was awarded by the German Embassy in Italy for the development of the "Cesena Remembers" app. Secured a €1,500 implementation grant to bring the project to fruition.
+- Winner of the **"IERI È OGGI È DOMANI"** national school project competition promoted by the German Embassy in Italy — 2025  
+  Developed the app **"Cesena Remembers"** with my class. The project received a **€1,500 grant** for implementation.
 
 ### 🖥️ Programming Languages:
 <p>
