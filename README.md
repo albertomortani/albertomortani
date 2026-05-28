@@ -6,7 +6,6 @@
 ## 🎨 About Me
 
 - 🌱 I am currently studying at ITT Blaise Pascal
-- 🎯 I am working on a Flutter app featuring real-time geolocation, interactive maps, and a guided tour system
 
 ## 🎓 Studies
  
