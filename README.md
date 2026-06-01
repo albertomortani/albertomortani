@@ -34,6 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="32"/>
 </p>
 
+[![I miei trofei](https://github-profile-trophy.vercel.app/?username=albertomortani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔗 Connect with Me
 <p align="left">
   <a href="mailto:albertomortani@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32"/></a>
